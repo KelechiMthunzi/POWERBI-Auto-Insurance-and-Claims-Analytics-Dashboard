@@ -1,4 +1,4 @@
-## POWERBI | Auto Insurance and Claims Analytics Dashboard
+## POWER-BI | Auto Insurance and Claims Analytics Dashboard
 
 This project presents an interactive Power BI dashboard developed to analyze automobile insurance policies, customer characteristics, vehicle information, and insurance claim behavior. The dashboard is designed to help decision-makers identify customer segments, vehicle categories, and geographic areas associated with higher insurance claims while providing a comprehensive overview of the insurance portfolio.
 ## Executive Summary
