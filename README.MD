@@ -7,8 +7,8 @@ Insurance companies rely on data to understand customer risk, evaluate claim pat
 The report is organized into multiple analytical sections that progressively explore the insurance portfolio, customer demographics, household characteristics, vehicle information, and overall risk exposure.
 
 ## Dashboard Pages
-1. EXECUTIVE SUMMARY
-![Executive overview image](images\executive_overview.png)<br>
+1. EXECUTIVE SUMMARY <br>
+![Executive overview image](/images/executive_overview.png)<br>
 **Provides a high-level overview of the insurance portfolio, including:** 
 - Total Policy Value
 - Total Claimed Value
