@@ -9,7 +9,7 @@ The report is organized into multiple analytical sections that progressively exp
 ## Dashboard Pages
 1. EXECUTIVE SUMMARY <br>
 ![Executive overview image](/images/executive_overview.png)<br>
-**Provides a high-level overview of the insurance portfolio, including:** 
+**The first section provides a high-level overview of the insurance portfolio, including:** 
 - Total Policy Value
 - Total Claimed Value
 - Total Customers
@@ -21,7 +21,7 @@ The report is organized into multiple analytical sections that progressively exp
 
 2. CUSTOMER SEGMENT <br>
 ![screenshot here]() <br>
-**Explores customer demographics and answers questions such as:**
+**The Second section explores customer demographics and answers questions such as:**
 
 - Does gender influence insurance claims?
 
@@ -32,7 +32,7 @@ The report is organized into multiple analytical sections that progressively exp
 
 3. CUSTOMERS FAMILY SEGMENT <br>
 ![screenshot here]() <br>
-**Analyzes household characteristics to understand insurance risk.**<br>
+**This segment analyzes household characteristics to understand insurance risk.**<br>
 Key analyses include:
 - Parent versus Non-Parent claim comparison
 - Number of young drivers in a household
@@ -42,7 +42,7 @@ Key analyses include:
 
 4. VEHICLE SEGMENT <br>
 ![screenshot here]() <br>
-Examines vehicle-related risk factors including:<br>
+This segment examines vehicle-related risk factors including:<br>
 
 - Vehicle manufacturer analysis
 - Vehicle age analysis
@@ -52,7 +52,7 @@ Examines vehicle-related risk factors including:<br>
 
 5. RISK ANALYSIS SEGMENT <br>
 ![screenshot here]() <br>
-- Combines customer, vehicle, and geographic information to identify higher-risk insurance profiles and support data-driven decision making.
+- The last section combines customer, vehicle, and geographic information to identify higher-risk insurance profiles and support data-driven decision making.
 
 <hr>
 
@@ -70,4 +70,4 @@ Examines vehicle-related risk factors including:<br>
 
 ## CONCLUSION
 
-**This project demonstrates the use of Power BI to transform insurance policy data into actionable business insights through interactive dashboards and visual analytics. By combining customer, household, vehicle, and geographic information, the report provides a structured approach to understanding claim behavior and identifying potential risk factors. The project also serves as a practical example of applying Business Intelligence techniques to support evidence-based decision-making within the insurance industry.**
+**The project has demonstrated the use of Power BI to transform insurance policy data into actionable business insights through interactive dashboards and visual analytics. By combining customer, household, vehicle, and geographic information, the report provides a structured approach to understanding claim behavior and identifying potential risk factors. The project also serves as a practical example of applying Business Intelligence techniques to support evidence-based decision-making within the insurance industry.**
