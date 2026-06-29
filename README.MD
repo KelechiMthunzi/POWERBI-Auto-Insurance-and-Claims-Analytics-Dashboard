@@ -8,7 +8,7 @@ The report is organized into multiple analytical sections that progressively exp
 
 ## Dashboard Pages
 1. EXECUTIVE SUMMARY
-![](images\executive_overview.png)
+![Executive overview image](images\executive_overview.png)
 **Provides a high-level overview of the insurance portfolio, including:** 
 - Total Policy Value
 - Total Claimed Value
